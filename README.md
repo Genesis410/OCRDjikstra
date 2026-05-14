@@ -51,10 +51,4 @@ pytest
 **This is the FIRST IMPLEMENTATION.** 
 This project is currently a proof-of-concept focusing on the core pathfinding logic for line segmentation. 
 
-**Future Roadmap:**
-- [ ] **Optimizations**: Further performance tuning for mobile-sized images.
-- [ ] **Advanced Testing**: Benchmarking against highly distorted or low-light receipt datasets.
-- [ ] **OCR Integration**: Connecting the extracted ribbons to Tesseract or PaddleOCR for full text recognition.
-- [ ] **Curved Line Support**: Implementing non-linear warping for warped/cylindrical surface receipts.
-
 Feel free to contribute or suggest further improvements!
