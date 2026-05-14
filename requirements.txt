@@ -1,3 +1,7 @@
 opencv-python
 numpy
 pytest
+scipy
+numba
+scikit-image
+matplotlib
